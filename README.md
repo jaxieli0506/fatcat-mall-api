@@ -4,8 +4,7 @@
 > 以 **ASP.NET Core 8 Web API** 打造的電商平台後端，涵蓋會員、商品、訂單、金流、物流、直播帶貨與即時客服。
 > 前端（Vue 3）：[fatcat-mall-web](https://github.com/jaxieli0506/fatcat-mall-web)
 
-<!-- TODO: 放一張 Swagger 或前台畫面截圖 / GIF -->
-<!-- ![demo](docs/demo.gif) -->
+![Swagger API 文件](docs/swagger.gif)
 
 ## 技術棧
 
